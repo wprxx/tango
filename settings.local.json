@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Command node, deno, bun, msedge, chrome -ErrorAction SilentlyContinue)"
+    ]
+  }
+}
